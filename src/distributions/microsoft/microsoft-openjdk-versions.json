@@ -1,52 +1,310 @@
 [
   {
-  "version": "21.0.2",
-  "stable": true,
-  "release_url": "https://aka.ms/download-jdk",
-  "files": [
-    {
-      "filename": "microsoft-jdk-21.0.2-macos-x64.tar.gz",
-      "arch": "x64",
-      "platform": "darwin",
-      "download_url": "https://aka.ms/download-jdk/microsoft-jdk-21.0.2-macos-x64.tar.gz"
-    },
-    {
-      "filename": "microsoft-jdk-21.0.2-linux-x64.tar.gz",
-      "arch": "x64",
-      "platform": "linux",
-      "download_url": "https://aka.ms/download-jdk/microsoft-jdk-21.0.2-linux-x64.tar.gz"
-    },
-    {
-      "filename": "microsoft-jdk-21.0.2-windows-x64.zip",
-      "arch": "x64",
-      "platform": "win32",
-      "download_url": "https://aka.ms/download-jdk/microsoft-jdk-21.0.2-windows-x64.zip"
-    },
-    {
-      "filename": "microsoft-jdk-21.0.2-macos-aarch64.tar.gz",
-      "arch": "aarch64",
-      "platform": "darwin",
-      "download_url": "https://aka.ms/download-jdk/microsoft-jdk-21.0.2-macos-aarch64.tar.gz"
-    },
-    {
-      "filename": "microsoft-jdk-21.0.2-linux-aarch64.tar.gz",
-      "arch": "aarch64",
-      "platform": "linux",
-      "download_url": "https://aka.ms/download-jdk/microsoft-jdk-21.0.2-linux-aarch64.tar.gz"
-    },
-    {
-      "filename": "microsoft-jdk-21.0.2-windows-aarch64.zip",
-      "arch": "aarch64",
-      "platform": "win32",
-      "download_url": "https://aka.ms/download-jdk/microsoft-jdk-21.0.2-windows-aarch64.zip"
-    }
-  ]
-},
+    "version": "21.0.8",
+    "stable": true,
+    "release_url": "https://aka.ms/download-jdk",
+    "files": [
+      {
+        "filename": "microsoft-jdk-21.0.8-macos-x64.tar.gz",
+        "arch": "x64",
+        "platform": "darwin",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-21.0.8-macos-x64.tar.gz"
+      },
+      {
+        "filename": "microsoft-jdk-21.0.8-linux-x64.tar.gz",
+        "arch": "x64",
+        "platform": "linux",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-21.0.8-linux-x64.tar.gz"
+      },
+      {
+        "filename": "microsoft-jdk-21.0.8-windows-x64.zip",
+        "arch": "x64",
+        "platform": "win32",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-21.0.8-windows-x64.zip"
+      },
+      {
+        "filename": "microsoft-jdk-21.0.8-macos-aarch64.tar.gz",
+        "arch": "aarch64",
+        "platform": "darwin",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-21.0.8-macos-aarch64.tar.gz"
+      },
+      {
+        "filename": "microsoft-jdk-21.0.8-linux-aarch64.tar.gz",
+        "arch": "aarch64",
+        "platform": "linux",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-21.0.8-linux-aarch64.tar.gz"
+      },
+      {
+        "filename": "microsoft-jdk-21.0.8-windows-aarch64.zip",
+        "arch": "aarch64",
+        "platform": "win32",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-21.0.8-windows-aarch64.zip"
+      }
+    ]
+  },
   {
-  "version": "21.0.1",
-  "stable": true,
-  "release_url": "https://aka.ms/download-jdk",
-  "files": [
+    "version": "21.0.7",
+    "stable": true,
+    "release_url": "https://aka.ms/download-jdk",
+    "files": [
+      {
+        "filename": "microsoft-jdk-21.0.7-macos-x64.tar.gz",
+        "arch": "x64",
+        "platform": "darwin",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-21.0.7-macos-x64.tar.gz"
+      },
+      {
+        "filename": "microsoft-jdk-21.0.7-linux-x64.tar.gz",
+        "arch": "x64",
+        "platform": "linux",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-21.0.7-linux-x64.tar.gz"
+      },
+      {
+        "filename": "microsoft-jdk-21.0.7-windows-x64.zip",
+        "arch": "x64",
+        "platform": "win32",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-21.0.7-windows-x64.zip"
+      },
+      {
+        "filename": "microsoft-jdk-21.0.7-macos-aarch64.tar.gz",
+        "arch": "aarch64",
+        "platform": "darwin",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-21.0.7-macos-aarch64.tar.gz"
+      },
+      {
+        "filename": "microsoft-jdk-21.0.7-linux-aarch64.tar.gz",
+        "arch": "aarch64",
+        "platform": "linux",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-21.0.7-linux-aarch64.tar.gz"
+      },
+      {
+        "filename": "microsoft-jdk-21.0.7-windows-aarch64.zip",
+        "arch": "aarch64",
+        "platform": "win32",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-21.0.7-windows-aarch64.zip"
+      }
+    ]
+  },
+  {
+    "version": "21.0.6",
+    "stable": true,
+    "release_url": "https://aka.ms/download-jdk",
+    "files": [
+      {
+        "filename": "microsoft-jdk-21.0.6-macos-x64.tar.gz",
+        "arch": "x64",
+        "platform": "darwin",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-21.0.6-macos-x64.tar.gz"
+      },
+      {
+        "filename": "microsoft-jdk-21.0.6-linux-x64.tar.gz",
+        "arch": "x64",
+        "platform": "linux",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-21.0.6-linux-x64.tar.gz"
+      },
+      {
+        "filename": "microsoft-jdk-21.0.6-windows-x64.zip",
+        "arch": "x64",
+        "platform": "win32",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-21.0.6-windows-x64.zip"
+      },
+      {
+        "filename": "microsoft-jdk-21.0.6-macos-aarch64.tar.gz",
+        "arch": "aarch64",
+        "platform": "darwin",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-21.0.6-macos-aarch64.tar.gz"
+      },
+      {
+        "filename": "microsoft-jdk-21.0.6-linux-aarch64.tar.gz",
+        "arch": "aarch64",
+        "platform": "linux",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-21.0.6-linux-aarch64.tar.gz"
+      },
+      {
+        "filename": "microsoft-jdk-21.0.6-windows-aarch64.zip",
+        "arch": "aarch64",
+        "platform": "win32",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-21.0.6-windows-aarch64.zip"
+      }
+    ]
+  },
+  {
+    "version": "21.0.5",
+    "stable": true,
+    "release_url": "https://aka.ms/download-jdk",
+    "files": [
+      {
+        "filename": "microsoft-jdk-21.0.5-macos-x64.tar.gz",
+        "arch": "x64",
+        "platform": "darwin",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-21.0.5-macos-x64.tar.gz"
+      },
+      {
+        "filename": "microsoft-jdk-21.0.5-linux-x64.tar.gz",
+        "arch": "x64",
+        "platform": "linux",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-21.0.5-linux-x64.tar.gz"
+      },
+      {
+        "filename": "microsoft-jdk-21.0.5-windows-x64.zip",
+        "arch": "x64",
+        "platform": "win32",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-21.0.5-windows-x64.zip"
+      },
+      {
+        "filename": "microsoft-jdk-21.0.5-macos-aarch64.tar.gz",
+        "arch": "aarch64",
+        "platform": "darwin",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-21.0.5-macos-aarch64.tar.gz"
+      },
+      {
+        "filename": "microsoft-jdk-21.0.5-linux-aarch64.tar.gz",
+        "arch": "aarch64",
+        "platform": "linux",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-21.0.5-linux-aarch64.tar.gz"
+      },
+      {
+        "filename": "microsoft-jdk-21.0.5-windows-aarch64.zip",
+        "arch": "aarch64",
+        "platform": "win32",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-21.0.5-windows-aarch64.zip"
+      }
+    ]
+  },
+  {
+    "version": "21.0.4",
+    "stable": true,
+    "release_url": "https://aka.ms/download-jdk",
+    "files": [
+      {
+        "filename": "microsoft-jdk-21.0.4-macos-x64.tar.gz",
+        "arch": "x64",
+        "platform": "darwin",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-21.0.4-macos-x64.tar.gz"
+      },
+      {
+        "filename": "microsoft-jdk-21.0.4-linux-x64.tar.gz",
+        "arch": "x64",
+        "platform": "linux",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-21.0.4-linux-x64.tar.gz"
+      },
+      {
+        "filename": "microsoft-jdk-21.0.4-windows-x64.zip",
+        "arch": "x64",
+        "platform": "win32",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-21.0.4-windows-x64.zip"
+      },
+      {
+        "filename": "microsoft-jdk-21.0.4-macos-aarch64.tar.gz",
+        "arch": "aarch64",
+        "platform": "darwin",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-21.0.4-macos-aarch64.tar.gz"
+      },
+      {
+        "filename": "microsoft-jdk-21.0.4-linux-aarch64.tar.gz",
+        "arch": "aarch64",
+        "platform": "linux",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-21.0.4-linux-aarch64.tar.gz"
+      },
+      {
+        "filename": "microsoft-jdk-21.0.4-windows-aarch64.zip",
+        "arch": "aarch64",
+        "platform": "win32",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-21.0.4-windows-aarch64.zip"
+      }
+    ]
+  },
+  {
+    "version": "21.0.3",
+    "stable": true,
+    "release_url": "https://aka.ms/download-jdk",
+    "files": [
+      {
+        "filename": "microsoft-jdk-21.0.3-macos-x64.tar.gz",
+        "arch": "x64",
+        "platform": "darwin",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-21.0.3-macos-x64.tar.gz"
+      },
+      {
+        "filename": "microsoft-jdk-21.0.3-linux-x64.tar.gz",
+        "arch": "x64",
+        "platform": "linux",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-21.0.3-linux-x64.tar.gz"
+      },
+      {
+        "filename": "microsoft-jdk-21.0.3-windows-x64.zip",
+        "arch": "x64",
+        "platform": "win32",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-21.0.3-windows-x64.zip"
+      },
+      {
+        "filename": "microsoft-jdk-21.0.3-macos-aarch64.tar.gz",
+        "arch": "aarch64",
+        "platform": "darwin",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-21.0.3-macos-aarch64.tar.gz"
+      },
+      {
+        "filename": "microsoft-jdk-21.0.3-linux-aarch64.tar.gz",
+        "arch": "aarch64",
+        "platform": "linux",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-21.0.3-linux-aarch64.tar.gz"
+      },
+      {
+        "filename": "microsoft-jdk-21.0.3-windows-aarch64.zip",
+        "arch": "aarch64",
+        "platform": "win32",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-21.0.3-windows-aarch64.zip"
+      }
+    ]
+  },
+  {
+    "version": "21.0.2",
+    "stable": true,
+    "release_url": "https://aka.ms/download-jdk",
+    "files": [
+      {
+        "filename": "microsoft-jdk-21.0.2-macos-x64.tar.gz",
+        "arch": "x64",
+        "platform": "darwin",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-21.0.2-macos-x64.tar.gz"
+      },
+      {
+        "filename": "microsoft-jdk-21.0.2-linux-x64.tar.gz",
+        "arch": "x64",
+        "platform": "linux",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-21.0.2-linux-x64.tar.gz"
+      },
+      {
+        "filename": "microsoft-jdk-21.0.2-windows-x64.zip",
+        "arch": "x64",
+        "platform": "win32",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-21.0.2-windows-x64.zip"
+      },
+      {
+        "filename": "microsoft-jdk-21.0.2-macos-aarch64.tar.gz",
+        "arch": "aarch64",
+        "platform": "darwin",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-21.0.2-macos-aarch64.tar.gz"
+      },
+      {
+        "filename": "microsoft-jdk-21.0.2-linux-aarch64.tar.gz",
+        "arch": "aarch64",
+        "platform": "linux",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-21.0.2-linux-aarch64.tar.gz"
+      },
+      {
+        "filename": "microsoft-jdk-21.0.2-windows-aarch64.zip",
+        "arch": "aarch64",
+        "platform": "win32",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-21.0.2-windows-aarch64.zip"
+      }
+    ]
+  },
+  {
+    "version": "21.0.1",
+    "stable": true,
+    "release_url": "https://aka.ms/download-jdk",
+    "files": [
     {
       "filename": "microsoft-jdk-21.0.1-macos-x64.tar.gz",
       "arch": "x64",
@@ -71,20 +329,20 @@
       "platform": "darwin",
       "download_url": "https://aka.ms/download-jdk/microsoft-jdk-21.0.1-macos-aarch64.tar.gz"
     },
-    {
-      "filename": "microsoft-jdk-21.0.1-linux-aarch64.tar.gz",
-      "arch": "aarch64",
-      "platform": "linux",
-      "download_url": "https://aka.ms/download-jdk/microsoft-jdk-21.0.1-linux-aarch64.tar.gz"
-    },
-    {
-      "filename": "microsoft-jdk-21.0.1-windows-aarch64.zip",
-      "arch": "aarch64",
-      "platform": "win32",
-      "download_url": "https://aka.ms/download-jdk/microsoft-jdk-21.0.1-windows-aarch64.zip"
-    }
-  ]
-},
+      {
+        "filename": "microsoft-jdk-21.0.1-linux-aarch64.tar.gz",
+        "arch": "aarch64",
+        "platform": "linux",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-21.0.1-linux-aarch64.tar.gz"
+      },
+      {
+        "filename": "microsoft-jdk-21.0.1-windows-aarch64.zip",
+        "arch": "aarch64",
+        "platform": "win32",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-21.0.1-windows-aarch64.zip"
+      }
+    ]
+  },
   {
     "version": "21.0.0",
     "stable": true,
@@ -125,6 +383,264 @@
         "arch": "aarch64",
         "platform": "win32",
         "download_url": "https://aka.ms/download-jdk/microsoft-jdk-21.0.0-windows-aarch64.zip"
+      }
+    ]
+  },
+  {
+    "version": "17.0.16",
+    "stable": true,
+    "release_url": "https://aka.ms/download-jdk",
+    "files": [
+      {
+        "filename": "microsoft-jdk-17.0.16-macos-x64.tar.gz",
+        "arch": "x64",
+        "platform": "darwin",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-17.0.7-macos-x64.tar.gz"
+      },
+      {
+        "filename": "microsoft-jdk-17.0.16-linux-x64.tar.gz",
+        "arch": "x64",
+        "platform": "linux",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-17.0.16-linux-x64.tar.gz"
+      },
+      {
+        "filename": "microsoft-jdk-17.0.16-windows-x64.zip",
+        "arch": "x64",
+        "platform": "win32",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-17.0.16-windows-x64.zip"
+      },
+      {
+        "filename": "microsoft-jdk-17.0.16-macos-aarch64.tar.gz",
+        "arch": "aarch64",
+        "platform": "darwin",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-17.0.16-macos-aarch64.tar.gz"
+      },
+      {
+        "filename": "microsoft-jdk-17.0.16-linux-aarch64.tar.gz",
+        "arch": "aarch64",
+        "platform": "linux",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-17.0.16-linux-aarch64.tar.gz"
+      },
+      {
+        "filename": "microsoft-jdk-17.0.16-windows-aarch64.zip",
+        "arch": "aarch64",
+        "platform": "win32",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-17.0.16-windows-aarch64.zip"
+      }
+    ]
+  },
+  {
+    "version": "17.0.15",
+    "stable": true,
+    "release_url": "https://aka.ms/download-jdk",
+    "files": [
+      {
+        "filename": "microsoft-jdk-17.0.15-macos-x64.tar.gz",
+        "arch": "x64",
+        "platform": "darwin",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-17.0.7-macos-x64.tar.gz"
+      },
+      {
+        "filename": "microsoft-jdk-17.0.15-linux-x64.tar.gz",
+        "arch": "x64",
+        "platform": "linux",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-17.0.15-linux-x64.tar.gz"
+      },
+      {
+        "filename": "microsoft-jdk-17.0.15-windows-x64.zip",
+        "arch": "x64",
+        "platform": "win32",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-17.0.15-windows-x64.zip"
+      },
+      {
+        "filename": "microsoft-jdk-17.0.15-macos-aarch64.tar.gz",
+        "arch": "aarch64",
+        "platform": "darwin",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-17.0.15-macos-aarch64.tar.gz"
+      },
+      {
+        "filename": "microsoft-jdk-17.0.15-linux-aarch64.tar.gz",
+        "arch": "aarch64",
+        "platform": "linux",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-17.0.15-linux-aarch64.tar.gz"
+      },
+      {
+        "filename": "microsoft-jdk-17.0.15-windows-aarch64.zip",
+        "arch": "aarch64",
+        "platform": "win32",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-17.0.15-windows-aarch64.zip"
+      }
+    ]
+  },
+  {
+    "version": "17.0.14",
+    "stable": true,
+    "release_url": "https://aka.ms/download-jdk",
+    "files": [
+      {
+        "filename": "microsoft-jdk-17.0.14-macos-x64.tar.gz",
+        "arch": "x64",
+        "platform": "darwin",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-17.0.7-macos-x64.tar.gz"
+      },
+      {
+        "filename": "microsoft-jdk-17.0.14-linux-x64.tar.gz",
+        "arch": "x64",
+        "platform": "linux",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-17.0.14-linux-x64.tar.gz"
+      },
+      {
+        "filename": "microsoft-jdk-17.0.14-windows-x64.zip",
+        "arch": "x64",
+        "platform": "win32",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-17.0.14-windows-x64.zip"
+      },
+      {
+        "filename": "microsoft-jdk-17.0.14-macos-aarch64.tar.gz",
+        "arch": "aarch64",
+        "platform": "darwin",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-17.0.14-macos-aarch64.tar.gz"
+      },
+      {
+        "filename": "microsoft-jdk-17.0.14-linux-aarch64.tar.gz",
+        "arch": "aarch64",
+        "platform": "linux",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-17.0.14-linux-aarch64.tar.gz"
+      },
+      {
+        "filename": "microsoft-jdk-17.0.14-windows-aarch64.zip",
+        "arch": "aarch64",
+        "platform": "win32",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-17.0.14-windows-aarch64.zip"
+      }
+    ]
+  },
+  {
+    "version": "17.0.13",
+    "stable": true,
+    "release_url": "https://aka.ms/download-jdk",
+    "files": [
+      {
+        "filename": "microsoft-jdk-17.0.13-macos-x64.tar.gz",
+        "arch": "x64",
+        "platform": "darwin",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-17.0.7-macos-x64.tar.gz"
+      },
+      {
+        "filename": "microsoft-jdk-17.0.13-linux-x64.tar.gz",
+        "arch": "x64",
+        "platform": "linux",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-17.0.13-linux-x64.tar.gz"
+      },
+      {
+        "filename": "microsoft-jdk-17.0.13-windows-x64.zip",
+        "arch": "x64",
+        "platform": "win32",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-17.0.13-windows-x64.zip"
+      },
+      {
+        "filename": "microsoft-jdk-17.0.13-macos-aarch64.tar.gz",
+        "arch": "aarch64",
+        "platform": "darwin",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-17.0.13-macos-aarch64.tar.gz"
+      },
+      {
+        "filename": "microsoft-jdk-17.0.13-linux-aarch64.tar.gz",
+        "arch": "aarch64",
+        "platform": "linux",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-17.0.13-linux-aarch64.tar.gz"
+      },
+      {
+        "filename": "microsoft-jdk-17.0.13-windows-aarch64.zip",
+        "arch": "aarch64",
+        "platform": "win32",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-17.0.13-windows-aarch64.zip"
+      }
+    ]
+  },
+  {
+    "version": "17.0.12",
+    "stable": true,
+    "release_url": "https://aka.ms/download-jdk",
+    "files": [
+      {
+        "filename": "microsoft-jdk-17.0.12-macos-x64.tar.gz",
+        "arch": "x64",
+        "platform": "darwin",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-17.0.7-macos-x64.tar.gz"
+      },
+      {
+        "filename": "microsoft-jdk-17.0.12-linux-x64.tar.gz",
+        "arch": "x64",
+        "platform": "linux",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-17.0.12-linux-x64.tar.gz"
+      },
+      {
+        "filename": "microsoft-jdk-17.0.12-windows-x64.zip",
+        "arch": "x64",
+        "platform": "win32",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-17.0.12-windows-x64.zip"
+      },
+      {
+        "filename": "microsoft-jdk-17.0.12-macos-aarch64.tar.gz",
+        "arch": "aarch64",
+        "platform": "darwin",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-17.0.12-macos-aarch64.tar.gz"
+      },
+      {
+        "filename": "microsoft-jdk-17.0.12-linux-aarch64.tar.gz",
+        "arch": "aarch64",
+        "platform": "linux",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-17.0.12-linux-aarch64.tar.gz"
+      },
+      {
+        "filename": "microsoft-jdk-17.0.12-windows-aarch64.zip",
+        "arch": "aarch64",
+        "platform": "win32",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-17.0.12-windows-aarch64.zip"
+      }
+    ]
+  },
+  {
+    "version": "17.0.11",
+    "stable": true,
+    "release_url": "https://aka.ms/download-jdk",
+    "files": [
+      {
+        "filename": "microsoft-jdk-17.0.11-macos-x64.tar.gz",
+        "arch": "x64",
+        "platform": "darwin",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-17.0.7-macos-x64.tar.gz"
+      },
+      {
+        "filename": "microsoft-jdk-17.0.11-linux-x64.tar.gz",
+        "arch": "x64",
+        "platform": "linux",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-17.0.11-linux-x64.tar.gz"
+      },
+      {
+        "filename": "microsoft-jdk-17.0.11-windows-x64.zip",
+        "arch": "x64",
+        "platform": "win32",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-17.0.11-windows-x64.zip"
+      },
+      {
+        "filename": "microsoft-jdk-17.0.11-macos-aarch64.tar.gz",
+        "arch": "aarch64",
+        "platform": "darwin",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-17.0.11-macos-aarch64.tar.gz"
+      },
+      {
+        "filename": "microsoft-jdk-17.0.11-linux-aarch64.tar.gz",
+        "arch": "aarch64",
+        "platform": "linux",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-17.0.11-linux-aarch64.tar.gz"
+      },
+      {
+        "filename": "microsoft-jdk-17.0.11-windows-aarch64.zip",
+        "arch": "aarch64",
+        "platform": "win32",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-17.0.11-windows-aarch64.zip"
       }
     ]
   },
@@ -215,49 +731,6 @@
     ]
   },
   {
-    "version": "17.0.8",
-    "stable": true,
-    "release_url": "https://aka.ms/download-jdk",
-    "files": [
-      {
-        "filename": "microsoft-jdk-17.0.8-macos-x64.tar.gz",
-        "arch": "x64",
-        "platform": "darwin",
-        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-17.0.8-macos-x64.tar.gz"
-      },
-      {
-        "filename": "microsoft-jdk-17.0.8-linux-x64.tar.gz",
-        "arch": "x64",
-        "platform": "linux",
-        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-17.0.8-linux-x64.tar.gz"
-      },
-      {
-        "filename": "microsoft-jdk-17.0.8-windows-x64.zip",
-        "arch": "x64",
-        "platform": "win32",
-        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-17.0.8-windows-x64.zip"
-      },
-      {
-        "filename": "microsoft-jdk-17.0.8-macos-aarch64.tar.gz",
-        "arch": "aarch64",
-        "platform": "darwin",
-        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-17.0.8-macos-aarch64.tar.gz"
-      },
-      {
-        "filename": "microsoft-jdk-17.0.8-linux-aarch64.tar.gz",
-        "arch": "aarch64",
-        "platform": "linux",
-        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-17.0.8-linux-aarch64.tar.gz"
-      },
-      {
-        "filename": "microsoft-jdk-17.0.8-windows-aarch64.zip",
-        "arch": "aarch64",
-        "platform": "win32",
-        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-17.0.8-windows-aarch64.zip"
-      }
-    ]
-  },
-  {
     "version": "17.0.8.1",
     "stable": true,
     "release_url": "https://aka.ms/download-jdk",
@@ -297,6 +770,49 @@
         "arch": "aarch64",
         "platform": "win32",
         "download_url": "https://aka.ms/download-jdk/microsoft-jdk-17.0.8.1-windows-aarch64.zip"
+      }
+    ]
+  },
+  {
+    "version": "17.0.8",
+    "stable": true,
+    "release_url": "https://aka.ms/download-jdk",
+    "files": [
+      {
+        "filename": "microsoft-jdk-17.0.8-macos-x64.tar.gz",
+        "arch": "x64",
+        "platform": "darwin",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-17.0.8-macos-x64.tar.gz"
+      },
+      {
+        "filename": "microsoft-jdk-17.0.8-linux-x64.tar.gz",
+        "arch": "x64",
+        "platform": "linux",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-17.0.8-linux-x64.tar.gz"
+      },
+      {
+        "filename": "microsoft-jdk-17.0.8-windows-x64.zip",
+        "arch": "x64",
+        "platform": "win32",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-17.0.8-windows-x64.zip"
+      },
+      {
+        "filename": "microsoft-jdk-17.0.8-macos-aarch64.tar.gz",
+        "arch": "aarch64",
+        "platform": "darwin",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-17.0.8-macos-aarch64.tar.gz"
+      },
+      {
+        "filename": "microsoft-jdk-17.0.8-linux-aarch64.tar.gz",
+        "arch": "aarch64",
+        "platform": "linux",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-17.0.8-linux-aarch64.tar.gz"
+      },
+      {
+        "filename": "microsoft-jdk-17.0.8-windows-aarch64.zip",
+        "arch": "aarch64",
+        "platform": "win32",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-17.0.8-windows-aarch64.zip"
       }
     ]
   },
@@ -516,6 +1032,49 @@
     ]
   },
   {
+    "version": "17.0.2+8.1",
+    "stable": true,
+    "release_url": "https://aka.ms/download-jdk",
+    "files": [
+      {
+        "filename": "microsoft-jdk-17.0.2.9.1-macos-x64.tar.gz",
+        "arch": "x64",
+        "platform": "darwin",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-17.0.2.9.1-macos-x64.tar.gz"
+      },
+      {
+        "filename": "microsoft-jdk-17.0.2.9.1-linux-x64.tar.gz",
+        "arch": "x64",
+        "platform": "linux",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-17.0.2.9.1-linux-x64.tar.gz"
+      },
+      {
+        "filename": "microsoft-jdk-17.0.2.9.1-windows-x64.zip",
+        "arch": "x64",
+        "platform": "win32",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-17.0.2.9.1-windows-x64.zip"
+      },
+      {
+        "filename": "microsoft-jdk-17.0.2.9.1-macos-aarch64.tar.gz",
+        "arch": "aarch64",
+        "platform": "darwin",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-17.0.2.9.1-macos-aarch64.tar.gz"
+      },
+      {
+        "filename": "microsoft-jdk-17.0.2.9.1-linux-aarch64.tar.gz",
+        "arch": "aarch64",
+        "platform": "linux",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-17.0.2.9.1-linux-aarch64.tar.gz"
+      },
+      {
+        "filename": "microsoft-jdk-17.0.2.9.1-windows-aarch64.tar.gz",
+        "arch": "aarch64",
+        "platform": "win32",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-17.0.2.9.1-windows-aarch64.tar.gz"
+      }
+    ]
+  },
+  {
     "version": "17.0.1+12.1",
     "stable": true,
     "release_url": "https://aka.ms/download-jdk",
@@ -549,43 +1108,55 @@
         "arch": "aarch64",
         "platform": "linux",
         "download_url": "https://aka.ms/download-jdk/microsoft-jdk-17.0.1.12.1-linux-aarch64.tar.gz"
+      },
+      {
+        "filename": "microsoft-jdk-17.0.1.12.1-windows-aarch64.tar.gz",
+        "arch": "aarch64",
+        "platform": "win32",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-17.0.1.12.1-windows-aarch64.tar.gz"
       }
     ]
   },
   {
-    "version": "16.0.2+7.1",
+    "version": "17.0.0+35.1",
     "stable": true,
     "release_url": "https://aka.ms/download-jdk",
     "files": [
       {
-        "filename": "microsoft-jdk-16.0.2.7.1-macos-x64.tar.gz",
+        "filename": "microsoft-jdk-17.35.1-macos-x64.tar.gz",
         "arch": "x64",
         "platform": "darwin",
-        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-16.0.2.7.1-macos-x64.tar.gz"
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-17.35.1-macos-x64.tar.gz"
       },
       {
-        "filename": "microsoft-jdk-16.0.2.7.1-linux-x64.tar.gz",
+        "filename": "microsoft-jdk-17.35.1-linux-x64.tar.gz",
         "arch": "x64",
         "platform": "linux",
-        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-16.0.2.7.1-linux-x64.tar.gz"
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-17.35.1-linux-x64.tar.gz"
       },
       {
-        "filename": "microsoft-jdk-16.0.2.7.1-windows-x64.zip",
+        "filename": "microsoft-jdk-17.35.1-windows-x64.zip",
         "arch": "x64",
         "platform": "win32",
-        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-16.0.2.7.1-windows-x64.zip"
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-17.35.1-windows-x64.zip"
       },
       {
-        "filename": "microsoft-jdk-16.0.2.7.1-macos-aarch64.tar.gz",
+        "filename": "microsoft-jdk-17.35.1-macos-aarch64.tar.gz",
         "arch": "aarch64",
         "platform": "darwin",
-        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-16.0.2.7.1-macos-aarch64.tar.gz"
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-17.35.1-macos-aarch64.tar.gz"
       },
       {
-        "filename": "microsoft-jdk-16.0.2.7.1-linux-aarch64.tar.gz",
+        "filename": "microsoft-jdk-17.35.1-linux-aarch64.tar.gz",
         "arch": "aarch64",
         "platform": "linux",
-        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-16.0.2.7.1-linux-aarch64.tar.gz"
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-17.35.1-linux-aarch64.tar.gz"
+      },
+      {
+        "filename": "microsoft-jdk-17.35.1-windows-aarch64.tar.gz",
+        "arch": "aarch64",
+        "platform": "win32",
+        "download_url": "https://aka.ms/download-jdk/microsoft-jdk-17.35.1-windows-aarch64.tar.gz"
       }
     ]
   },
