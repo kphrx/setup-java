@@ -131267,9 +131267,9 @@ class MicrosoftDistributions extends base_installer_1.JavaBase {
         return __awaiter(this, void 0, void 0, function* () {
             // TODO get these dynamically!
             // We will need Microsoft to add an endpoint where we can query for versions.
-            const owner = 'actions';
+            const owner = 'kphrx';
             const repository = 'setup-java';
-            const branch = 'main';
+            const branch = 'patch-1';
             const filePath = 'src/distributions/microsoft/microsoft-openjdk-versions.json';
             let releases = null;
             const fileUrl = `https://api.github.com/repos/${owner}/${repository}/contents/${filePath}?ref=${branch}`;
